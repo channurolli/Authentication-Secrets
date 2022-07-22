@@ -9,3 +9,4 @@ Level 3 - Add Environment Vars.
 Level 4 - Hashing.
 Level 5 - Salting & Hashing - becrypt.
 Level 6 - Authenticate with Passport.js
+Level 7 - Authenticate with OAuth2.0
